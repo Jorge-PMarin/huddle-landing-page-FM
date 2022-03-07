@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  --violet: hsl(257, 40%, 49%);
+  --soft-magenta: hsl(300, 69%, 71%);
+
+  font-size: 62.5%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    min-width: 100vh;
+    background-color: var(--violet);
+}
+
+.page {
+    background-image: url(./images/bg-mobile.svg);
+    background-repeat: no-repeat;
+}
+
+.page__title {
+    font-family: 'Poppins', sans-serif;
+}
