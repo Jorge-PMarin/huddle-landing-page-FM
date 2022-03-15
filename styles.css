@@ -125,7 +125,7 @@ img {
   }
 
   .page__logo img {
-    max-width: 15rem;
+    max-width: 20rem;
   }
 
   .page__container {
@@ -133,11 +133,11 @@ img {
   }
 
   .page__img {
-    flex: 1.3;
+    flex: 1.5;
   }
 
   .page__img img {
-    max-width: 90%;
+    max-width: 92%;
     margin: 0;
     padding: 3rem 0 0 0;
   }
@@ -148,7 +148,7 @@ img {
   }
 
   .page__heading {
-    font-size: 4rem;
+    font-size: 3.8rem;
   }
 
   .page__heading,
@@ -164,6 +164,7 @@ img {
 
   .page__social {
     justify-content: end;
-    padding-top: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
   }
 }
