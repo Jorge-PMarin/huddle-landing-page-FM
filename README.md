@@ -4,12 +4,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![desktop](./my-design/screenshot-desktop.png)
+![mobile](./my-design/screenshot-mobile.png)
 
 ### Built with
 
